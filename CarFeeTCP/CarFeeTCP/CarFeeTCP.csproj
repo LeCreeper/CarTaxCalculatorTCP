@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Tax">
       <HintPath>..\..\Tax\bin\Release\netcoreapp2.1\Tax.dll</HintPath>
     </Reference>

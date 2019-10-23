@@ -20,3 +20,6 @@ C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\obj
 C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.AssemblyInfo.cs
 C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.dll
 C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.pdb
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\Tax.dll
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\Tax.pdb
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.csproj.CopyComplete

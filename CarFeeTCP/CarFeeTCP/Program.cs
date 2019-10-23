@@ -2,6 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using Tax;
 
 namespace CarFeeTCP
 {
@@ -16,6 +17,9 @@ namespace CarFeeTCP
 
             serverSocket.Start();
             Console.WriteLine("Server Has Started.");
+
+            
+
 
             while (true)
             {
