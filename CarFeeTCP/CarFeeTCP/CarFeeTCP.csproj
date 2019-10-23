@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Tax">
+      <HintPath>..\..\Tax\bin\Release\netcoreapp2.1\Tax.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
