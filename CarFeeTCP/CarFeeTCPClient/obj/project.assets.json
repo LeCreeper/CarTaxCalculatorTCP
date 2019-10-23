@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rdlau\\source\\repos\\CarFeeTCP\\CarFeeTCPClient\\CarFeeTCPClient.csproj",
+      "projectUniqueName": "C:\\Users\\rdlau\\Source\\Repos\\LeCreeper\\Mock-Exam-1-Rasmus\\CarFeeTCP\\CarFeeTCPClient\\CarFeeTCPClient.csproj",
       "projectName": "CarFeeTCPClient",
-      "projectPath": "C:\\Users\\rdlau\\source\\repos\\CarFeeTCP\\CarFeeTCPClient\\CarFeeTCPClient.csproj",
+      "projectPath": "C:\\Users\\rdlau\\Source\\Repos\\LeCreeper\\Mock-Exam-1-Rasmus\\CarFeeTCP\\CarFeeTCPClient\\CarFeeTCPClient.csproj",
       "packagesPath": "C:\\Users\\rdlau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rdlau\\source\\repos\\CarFeeTCP\\CarFeeTCPClient\\obj\\",
+      "outputPath": "C:\\Users\\rdlau\\Source\\Repos\\LeCreeper\\Mock-Exam-1-Rasmus\\CarFeeTCP\\CarFeeTCPClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

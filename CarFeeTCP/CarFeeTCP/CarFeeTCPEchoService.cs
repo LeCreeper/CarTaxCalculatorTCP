@@ -43,8 +43,7 @@ namespace CarFeeTCP
 
                 streamWriter.WriteLine(answer);
                 messageFromClient = streamReader.ReadLine();
-
-               
+                
 
             }
             NewStream.Close();

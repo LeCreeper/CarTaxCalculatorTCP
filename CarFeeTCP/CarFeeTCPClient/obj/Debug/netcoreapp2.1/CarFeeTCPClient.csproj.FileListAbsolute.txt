@@ -9,3 +9,14 @@ C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\Ca
 C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.dll
 C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.pdb
 C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.csprojAssemblyReference.cache
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\bin\Debug\netcoreapp2.1\CarFeeTCPClient.deps.json
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\bin\Debug\netcoreapp2.1\CarFeeTCPClient.runtimeconfig.json
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\bin\Debug\netcoreapp2.1\CarFeeTCPClient.runtimeconfig.dev.json
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\bin\Debug\netcoreapp2.1\CarFeeTCPClient.dll
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\bin\Debug\netcoreapp2.1\CarFeeTCPClient.pdb
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.csprojAssemblyReference.cache
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.csproj.CoreCompileInputs.cache
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.AssemblyInfoInputs.cache
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.AssemblyInfo.cs
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.dll
+C:\Users\rdlau\Source\Repos\LeCreeper\Mock-Exam-1-Rasmus\CarFeeTCP\CarFeeTCPClient\obj\Debug\netcoreapp2.1\CarFeeTCPClient.pdb

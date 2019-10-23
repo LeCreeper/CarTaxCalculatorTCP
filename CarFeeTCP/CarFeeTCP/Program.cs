@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Net;
 using System.Net.Sockets;
+using System.Threading;
 
 namespace CarFeeTCP
 {
@@ -23,7 +24,8 @@ namespace CarFeeTCP
                 CarFeeTCPEchoService echoService = new CarFeeTCPEchoService(connectionSocket);
 
 
-                echoService.DoIt();
+                Thread newThread = new Thread(echoService.DoIt);
+                newThread.Start();
 
                 
 
