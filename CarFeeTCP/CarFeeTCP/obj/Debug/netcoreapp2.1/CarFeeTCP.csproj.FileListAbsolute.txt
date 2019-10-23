@@ -1,0 +1,11 @@
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\CarFeeTCP.deps.json
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\CarFeeTCP.runtimeconfig.json
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\CarFeeTCP.runtimeconfig.dev.json
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\CarFeeTCP.dll
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\bin\Debug\netcoreapp2.1\CarFeeTCP.pdb
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.csprojAssemblyReference.cache
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.csproj.CoreCompileInputs.cache
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.AssemblyInfoInputs.cache
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.AssemblyInfo.cs
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.dll
+C:\Users\rdlau\source\repos\CarFeeTCP\CarFeeTCP\obj\Debug\netcoreapp2.1\CarFeeTCP.pdb
