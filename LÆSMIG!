@@ -1,0 +1,2 @@
+I TCP projektet, hvis EchoServicen ikke kan finde Tax klassen, skal man hoppe ind i Tax solutionen, ændre debug til release og så builde.
+Så finder projektet .DLL filen, og man kan hoppe tilbage til TCP projektet
