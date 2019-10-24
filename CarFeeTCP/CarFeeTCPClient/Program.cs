@@ -12,7 +12,7 @@ namespace CarFeeTCPClient
         static void Main(string[] args)
         {
             
-            TcpClient clientSocket = new TcpClient("192.168.1.187", 6789);
+            TcpClient clientSocket = new TcpClient("10.200.121.125", 6789);
             
 
 

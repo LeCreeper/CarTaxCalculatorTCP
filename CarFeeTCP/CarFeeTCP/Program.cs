@@ -12,7 +12,7 @@ namespace CarFeeTCP
         {
 
             //Enter relevant IP instead of shown one.
-            IPAddress ip = IPAddress.Parse("192.168.1.187");
+            IPAddress ip = IPAddress.Parse("10.200.121.125");
             TcpListener serverSocket = new TcpListener(ip, 6789);
 
             serverSocket.Start();

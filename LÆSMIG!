@@ -1,2 +1,4 @@
-I TCP projektet, hvis EchoServicen ikke kan finde Tax klassen, skal man hoppe ind i Tax solutionen, ændre debug til release og så builde.
+﻿1. I TCP projektet, hvis EchoServicen ikke kan finde Tax klassen, skal man hoppe ind i Tax solutionen, ændre debug til release og så builde.
 Så finder projektet .DLL filen, og man kan hoppe tilbage til TCP projektet
+
+2. Ved kørsel af TCP server og klient skal IP'en i serveren og klienten erstattes med egen ip.
